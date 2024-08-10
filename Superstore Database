@@ -52,3 +52,4 @@ FROM superstore;
 SELECT avg(price)
 FROM superstore
 WHERE category="Kitchen Supplies"
+;
